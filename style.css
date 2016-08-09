@@ -1,0 +1,36 @@
+.logo{
+  height: 150px;
+  display: inline-block;
+}
+.aic{
+  height: 20px;
+  margin-top: 12px;
+
+}
+.empty{
+  height: 130px;
+  border-right: 1px solid black;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+.brandname{
+  display: inline-block;
+  vertical-align: top;
+}
+.titlebar{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.navbar-default{
+  background-color: white;
+
+}
+.services{
+  font-size: 16px;
+  margin-top: 10px;
+}
+.bold{
+font-weight: bold;
+}
