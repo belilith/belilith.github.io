@@ -34,3 +34,15 @@
 .bold{
 font-weight: bold;
 }
+.black-link{
+  color: black;
+}
+.map{
+  width: 100%;
+  display: block;
+ height: 400px;
+}
+.contact-icons{
+height: 40px;
+width: 40px;
+}
